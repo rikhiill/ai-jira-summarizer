@@ -10,6 +10,7 @@ venv/
 ENV/
 env/
 .venv/
+.env/
 
 # NLTK data (optional, if you want to avoid committing large data)
 nltk_data/
